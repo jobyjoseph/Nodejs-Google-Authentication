@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-google-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobyjoseph/Nodejs-Google-Authentication.git"
+  },
+  "author": "Joby Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobyjoseph/Nodejs-Google-Authentication/issues"
+  },
+  "homepage": "https://github.com/jobyjoseph/Nodejs-Google-Authentication#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.5",
+    "express-session": "^1.15.5",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^1.0.0"
+  }
+}

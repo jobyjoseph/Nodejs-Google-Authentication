@@ -1,0 +1,1 @@
+Since this is static website, there are no models involved.
